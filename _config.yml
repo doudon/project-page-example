@@ -7,7 +7,7 @@ description: "Write your site description here. It will be used as your sites me
 baseurl: "/project-page-test"
 url: "http://doudon.github.io"
 github_username:  doudon
-project_repository: project-page-test
+project_repository: project-page-example
 disqus_shortname: project-pages
 
 # Build settings
