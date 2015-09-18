@@ -2,12 +2,12 @@
 
 title: Project Pages
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
+email: yangzhen@ecust.edu.cn
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/project-pages"
-url: "http://matin-hub.github.io"
-github_username:  matin-hub
-project_repository: project-pages
+baseurl: "/project-pages-test"
+url: "http://doudon.github.io"
+github_username:  doudon
+project_repository: project-pages-test
 disqus_shortname: project-pages
 
 # Build settings
