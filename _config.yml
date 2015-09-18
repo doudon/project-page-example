@@ -4,10 +4,10 @@ title: Project Pages
 header-img: img/home-bg.jpg
 email: yangzhen@ecust.edu.cn
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/project-pages-test"
+baseurl: "/project-page-test"
 url: "http://doudon.github.io"
 github_username:  doudon
-project_repository: project-pages-test
+project_repository: project-page-test
 disqus_shortname: project-pages
 
 # Build settings
